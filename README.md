@@ -1,2 +1,3 @@
 # tugmodel-parent
-Parent agregator
+Project for parent pom for all tugmodel components.
+See [client readme](https://github.com/tugmodel/tugmodel-client).
