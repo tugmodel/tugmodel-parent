@@ -5,7 +5,7 @@
 
 	<groupId>com.tugmodel</groupId>
 	<artifactId>tugmodel-parent</artifactId>
-	<name>Tugmodel parent</name>
+	<name>tugmodel-parent</name>
 	<version>1.0.0.0</version>
 	<packaging>pom</packaging>
 
